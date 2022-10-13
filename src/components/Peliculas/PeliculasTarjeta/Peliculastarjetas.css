@@ -1,0 +1,17 @@
+.tarjetas{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.descripcion{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.namepelicula{
+    display: flex;
+    justify-content: center;
+}
